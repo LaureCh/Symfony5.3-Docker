@@ -1,4 +1,4 @@
-# Symfony4.4-Docker
+# Symfony4.4-Docker (for Windows)
 1. Installer docker for windows : 
 	- https://hub.docker.com/editions/community/docker-ce-desktop-windows/  (get Docker).
 
