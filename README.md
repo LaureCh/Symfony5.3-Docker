@@ -42,3 +42,5 @@ Redémarrer à chaque fois que c'est demandé.
     - docker-compose exec php php /var/www/symfony/bin/console debug:router
     - docker-compose exec php composer install
 
+10. Stopper les containers : docker-compose stop
+Les lister : docker ps
