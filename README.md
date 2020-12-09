@@ -10,7 +10,7 @@
 Redémarrer à chaque fois que c'est demandé. 
 
 3. Créer un dossier "symfony", puis cd /symfony et faire 
-	- git clone https://github.com/eko/docker-symfony
+	- git clone https://github.com/LaureCh/Symfony4.4-Docker.git
 
 4. Lancer Docker Desktop.
 
