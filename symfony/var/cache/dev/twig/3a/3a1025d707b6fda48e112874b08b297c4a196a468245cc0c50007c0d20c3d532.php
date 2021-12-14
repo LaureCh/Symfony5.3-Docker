@@ -1349,6 +1349,6 @@ class __TwigTemplate_d6ad9a8334ea1655cf5727f6b71aff7b8e49180f5da1c7270b924db7035
         <span>{{ route|default(controller) }}</span>
     {%- endif %}
 {% endmacro %}
-", "@WebProfiler/Collector/request.html.twig", "/Users/aka/Symfony/Symfony4.4-Docker/symfonyNEw/vendor/symfony/web-profiler-bundle/Resources/views/Collector/request.html.twig");
+", "@WebProfiler/Collector/request.html.twig", "/Users/aka/Symfony/symfony5.3-docker/symfony/vendor/symfony/web-profiler-bundle/Resources/views/Collector/request.html.twig");
     }
 }

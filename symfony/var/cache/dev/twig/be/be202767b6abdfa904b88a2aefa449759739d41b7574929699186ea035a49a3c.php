@@ -135,6 +135,6 @@ class __TwigTemplate_4e90912decaf0d8b69b6d8872ed592a6e4d4dd6e31a6d570016d4c559c3
         {% endfor %}
     </tbody>
 </table>
-", "@WebProfiler/Profiler/bag.html.twig", "/Users/aka/Symfony/Symfony4.4-Docker/symfonyNEw/vendor/symfony/web-profiler-bundle/Resources/views/Profiler/bag.html.twig");
+", "@WebProfiler/Profiler/bag.html.twig", "/Users/aka/Symfony/symfony5.3-docker/symfony/vendor/symfony/web-profiler-bundle/Resources/views/Profiler/bag.html.twig");
     }
 }

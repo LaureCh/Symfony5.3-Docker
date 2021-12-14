@@ -194,6 +194,6 @@ class __TwigTemplate_c48df6b1716c7fb3925b7df4d01488c8b9d3fcb15f511ec7be57cadd9db
         {% block body %}{% endblock %}
     </body>
 </html>
-", "base.html.twig", "/Users/aka/Symfony/Symfony4.4-Docker/symfonyNEw/templates/base.html.twig");
+", "base.html.twig", "/Users/aka/Symfony/symfony5.3-docker/symfony/templates/base.html.twig");
     }
 }

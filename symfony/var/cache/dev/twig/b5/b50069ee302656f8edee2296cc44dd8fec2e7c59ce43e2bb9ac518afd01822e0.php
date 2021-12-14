@@ -227,6 +227,6 @@ class __TwigTemplate_7cf8e96accdf27cb74a0bf343499f9075d9bfd9205abc26af21485652ed
         </div>
     </form>
 </div>
-", "@WebProfiler/Profiler/search.html.twig", "/Users/aka/Symfony/Symfony4.4-Docker/symfonyNEw/vendor/symfony/web-profiler-bundle/Resources/views/Profiler/search.html.twig");
+", "@WebProfiler/Profiler/search.html.twig", "/Users/aka/Symfony/symfony5.3-docker/symfony/vendor/symfony/web-profiler-bundle/Resources/views/Profiler/search.html.twig");
     }
 }
