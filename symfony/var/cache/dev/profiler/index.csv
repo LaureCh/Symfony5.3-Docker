@@ -1,0 +1,9 @@
+273452,172.21.0.1,GET,http://symfony.localhost/concert/hello,1639490280,90ab4f,500
+90ab4f,172.21.0.1,GET,http://symfony.localhost/concert/hello,1639490280,,500
+b0673f,172.21.0.1,GET,http://symfony.localhost/concert/hello,1639490329,,200
+46151f,172.21.0.1,GET,http://symfony.localhost/concert/hello,1639490340,,200
+aa7ac9,172.21.0.1,GET,http://symfony.localhost/concert/hello,1639490908,,200
+635987,172.22.0.1,GET,http://symfony.localhost/,1639492197,,200
+bc6b1a,172.22.0.1,GET,http://symfony.localhost/concert/hello,1639492233,,200
+3f19b9,172.22.0.1,GET,http://symfony.localhost/concert/laure,1639492236,,200
+a09d6e,172.22.0.1,GET,http://symfony.localhost/concert/laure,1639492632,,200
